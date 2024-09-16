@@ -29,7 +29,7 @@
     border-radius: 8px;
     border: 1px solid rgba(255, 255, 255, 0.3);
     background-color: rgba(255, 255, 255, 0.1);
-    color: white;
+    color: rgb(143, 96, 96);
   }
   
   .contact-input:focus, .contact-textarea:focus {
@@ -41,7 +41,7 @@
     padding: 10px 20px;
     background-color: #007bff;
     border: none;
-    color: white;
+    color: rgb(201, 105, 105);
     border-radius: 8px;
     cursor: pointer;
   }

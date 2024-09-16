@@ -19,7 +19,7 @@
   
   .skill-item {
     background-color: #f9f9f9;
-    border: 2px solid #e0e0e0;
+    border: 2px solid #e19898;
     border-radius: 8px;
     padding: 20px;
     transition: all 0.3s ease;
@@ -28,7 +28,7 @@
   
   .skill-item:hover {
     background-color: #007bff;
-    color: white;
+    color: rgb(200, 144, 144);
     border-color: #007bff;
     cursor: pointer;
   }
