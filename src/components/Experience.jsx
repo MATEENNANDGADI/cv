@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import './Experience.css';
 
 const experiences = [
-  { role: 'Front-End Developer', company: 'ABC Tech', year: '2023' },
+  { role: 'Front-End Developer', company: 'RN shetty', year: '2023' },
   { role: 'Intern Developer', company: 'XYZ Solutions', year: '2022' },
 ];
 
